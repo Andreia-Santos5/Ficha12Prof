@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.Ficha12WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{BD21FA72-90F1-4021-854F-70A2C10F97EB}" ItemName="Ficha12API" ConfigurationId="Ficha12" />
+        <StartupItem ItemId="{153A645E-1633-434B-AFAB-2B1B050EEA31}" ItemName="Ficha12WebApp" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ficha12API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ficha12/Models/LibraryContext.cs">
+    <Files>
+      <File FileName="Ficha12/Program.cs" Line="1" Column="1" />
+      <File FileName="Ficha12WebApp/Program.cs" Line="1" Column="1" />
+      <File FileName="Ficha12WebApp/Controllers/HomeController.cs" Line="68" Column="27" />
+      <File FileName="Ficha12WebApp/Models/BooksViewModel.cs" Line="1" Column="1" />
+      <File FileName="Ficha12WebApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Ficha12/Controllers/BooksController.cs" Line="50" Column="14" />
+      <File FileName="Ficha12/Data/LibraryDbInitializer.cs" Line="1" Column="1" />
+      <File FileName="Ficha12/Models/Book.cs" Line="1" Column="1" />
+      <File FileName="Ficha12/Data/LibraryExtension.cs" Line="24" Column="1" />
+      <File FileName="Ficha12/Models/LibraryContext.cs" Line="30" Column="1" />
+      <File FileName="Ficha12/Services/BookService.cs" Line="58" Column="10" />
+      <File FileName="Ficha12/Services/IBookService.cs" Line="11" Column="56" />
+      <File FileName="Ficha12WebApp/Views/Home/Index.cshtml" Line="61" Column="1" />
+      <File FileName="Ficha12WebApp/Views/Home/Create.cshtml" Line="3" Column="34" />
+      <File FileName="Ficha12WebApp/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Ficha12/Models/Publisher.cs" Line="1" Column="1" />
+      <File FileName="Ficha12WebApp/Views/Home/Update.cshtml" Line="34" Column="37" />
+      <File FileName="Ficha12WebApp/Views/Home/DeletePost.cshtml" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ficha12" expanded="True">
+            <Node name="Ficha12API" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="LibraryContext.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Ficha12WebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
